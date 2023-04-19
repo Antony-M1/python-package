@@ -1,0 +1,6 @@
+This is a sample text file that contains some email addresses.
+Here is one: john@example.com
+And another: jane.doe1234@gmail.com
+This one has multiple email addresses: info@company.com, support@company.com, sales@company.com
++914561237895, 8974561230, 4578912563, 1234578945,
++14578964859, +1434857695482
